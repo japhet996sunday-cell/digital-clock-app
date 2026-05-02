@@ -1,2 +1,13 @@
-# digital-clock-app
-A responsive digital clock built with HTML, CSS, and JavaScript that displays real-time system time with a clean UI design.
+# Digital Clock App
+
+A responsive digital clock built with HTML, CSS, and JavaScript.
+
+## Features
+- Real-time clock updates every second
+- Responsive design for mobile and desktop
+- Clean glowing UI design
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
