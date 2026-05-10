@@ -14,3 +14,6 @@ A responsive digital clock built with HTML, CSS, and JavaScript.
 
   ## Live Demo
  https://japhet996sunday-cell.github.io/digital-clock-app/  
+
+## 📂 Repository Link
+https://github.com/japhet996sunday-cell/digital-clock-app
